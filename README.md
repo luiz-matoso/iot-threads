@@ -35,11 +35,11 @@ Este projeto utiliza duas placas ESP32 para monitorar e controlar a temperatura 
 
 ## Deploy
 
-1. **Acesse o link do WOKWI: **
+1. **Acesse o link do WOKWI:**
    - ESP1 [Wokwi](https://wokwi.com/projects/408134069448979457)
    - ESP2 [Wokwi](https://wokwi.com/projects/408134100199521281)
 
-2. **Configure o acesso através do Socket Web HiveMQ: **
+2. **Configure o acesso através do Socket Web HiveMQ:**
    - HiveMQ Socket Web [HiveMQ](https://www.hivemq.com/demos/websocket-client/)
 
 3. **Rode os códigos no Wokwi:**
@@ -48,7 +48,7 @@ Este projeto utiliza duas placas ESP32 para monitorar e controlar a temperatura 
 
 ## Contribuição
 
-**Este projeto foi criado por: **
+**Este projeto foi criado por:**
 
 - Guilherme Tuchanski Rocha
 - Guilherme Teixeira de Freitas Chemim Guimarães
